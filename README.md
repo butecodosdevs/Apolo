@@ -1,4 +1,4 @@
-# Apoio
+# Apolo
 
 Esse repositório foi feito com o intuito de concentrar materiais gratuitos que achei pela internet durante algum estouro de interesse momentâneo em algum assunto específico ou durante um período de necessidade. Para facilitar o meu eu do futuro e, também, outras pessoas que possam ter a mesma necessidade, criei um repositório onde irei me comprometer a colocar esses materiais.
 
